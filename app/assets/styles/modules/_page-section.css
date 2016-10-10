@@ -30,7 +30,7 @@
       background-color: #e0e6ef;
 
       @mixin atMedium {
-        background-color: #e0e6ef;
+        background: url('C:/Users/Administrator/Desktop/Sites/travel-site/app/assets/images/testimonials-bg.jpg') top no-repeat;
         background-size: cover;
       }
 
